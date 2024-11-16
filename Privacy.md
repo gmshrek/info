@@ -11,7 +11,7 @@
 电子邮件：gmshrekhelp@outlook.com
 
 
-## GM Privacy Protection Policy
+## GM Privacy Policy
 
 Thank you for using the software developed and operated by the GM team, including (MouseBoost, OmniReader, TXT Reader, CHM Reader, EPUB Reader, etc.), hereinafter referred to as "GM APP".
 
